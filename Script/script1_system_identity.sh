@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
 
-STUDENT_NAME="Aman Kumar Akela"
+STUDENT_NAME="Ashish sharma "
 SOFTWARE_CHOICE="Git"
 
 DISTRO=$(hostnamectl | awk -F: '/Operating System/ {print $2}' | xargs)
