@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Aman Kumar Akela
-- Roll Number: 24BCE11196
+- Name: ASHISH SHARMA
+- Roll Number: 24MIM10040
 
 ## Chosen Software
 Git (Open Source Version Control System)
@@ -32,7 +32,7 @@ Generates a personal manifesto based on user input.
 
 1. Open terminal
 2. Navigate to folder:
-   cd oss-audit-[24BCE11196]
+   cd oss-audit-[24MIM10040]
 
 3. Give permission:
    chmod +x *.sh
